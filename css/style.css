@@ -9,3 +9,181 @@
 .picto-informations {
   text-align: center;
 }
+
+/*---*/
+
+body {
+
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1em;
+  background-color: #E5E4E2;
+  position: relative;
+
+}
+
+h1 {
+  color: #FFF;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  color: #888;
+}
+
+h3 {
+  color: #999;
+}
+
+img {
+  height: 200px;
+}
+
+.a_page {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 1.5em;
+}
+
+.a_page:hover {
+  color: #FF1494;
+  font-size: 3em;
+}
+
+.a_sidebar {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 1.5em;
+}
+
+.a_sidebar:hover {
+  color: #FF1494;
+  font-size: 3em;
+}
+
+
+th {
+  color: #FF1494;
+  font-weight: 800;
+  text-align: left;
+}
+td {
+  font-style: italic;
+  width: 200px;
+}
+
+.container-div {
+
+}
+
+.img_border_shadow_ {
+  box-shadow: 10px 10px 10px #999;
+}
+
+.div_card_header {
+  background-color: #FFF;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px #999;
+}
+
+.div_card {
+  background-color: #FFF;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px #999;
+}
+.div_card_text_center {
+  text-align: center;
+  line-height: 0.5em;
+
+}
+
+.div_backgroung_nyc {
+  background: url("../medias/salon/salon_2.jpg");
+  background-size: 100%;
+}
+
+.picture_round {
+  margin-top: 10px;
+  border-radius: 50%;
+  height: 150px;
+}
+
+.p_color_white {
+  color: #FFF;
+}
+
+.space_text_letter {
+  letter-spacing: 30px;
+}
+
+#sidebar {
+  position: fixed;
+  width: 20%;
+  background-color: #384047;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  line-height: 5em;
+}
+
+#sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#sidebar-mobile {
+  height: 60px;
+  width: 100%;
+  line-height: 50px;
+  text-align: center;
+  position: fixed;
+  bottom:0;
+  background-color: #384047;
+  margin-left: -15px;
+}
+
+#sidebar-mobile ul {
+  list-style: none;
+  padding-left:0;
+  display: flex;
+  justify-content: space-around;
+}
+
+#sidebar-mobile a {
+  font-size: 30px;
+  color: #FFF;
+}
+
+.filter_div {
+  background-color: rgba(9, 9, 9, 0.5);
+  border-radius: 5px;
+  height: 100%;
+  width: 100%;
+}
+
+.height-pictures-carousel {
+  height: 300px;
+  justify-content: center;
+}
+
+.img-height {
+  height: 300px;
+}
+
+.center-picture {
+  justify-content: center;
+  background-color: #D9D9D9;
+}
+
+.padding-down {
+  margin-bottom: 70px;
+}
+
+.cardmd {
+  min-height: 50px;
+  background-color: red;
+  padding:0;
+  margin:0;
+}
