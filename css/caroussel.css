@@ -1,0 +1,15 @@
+.caroussel-picture {
+  width: 100%;
+}
+
+.informations-on-caroussel {
+  position: absolute;
+  left: 15px;
+  top: 155px;
+  background-color: #000;
+  color: orange;
+}
+
+.informations-on-caroussel p {
+font-size: 10px;
+}

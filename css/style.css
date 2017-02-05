@@ -1,0 +1,11 @@
+@import url(caroussel.css);
+
+.picto-informations-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.picto-informations {
+  text-align: center;
+}
