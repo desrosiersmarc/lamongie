@@ -191,3 +191,16 @@ td {
 .padding-bottom-btn {
   margin-bottom: 5px;
 }
+
+#video {
+  margin:5px;
+}
+
+#iframe-css {
+  width:530px;
+
+}
+
+.video-div {
+  text-align: center;
+}
